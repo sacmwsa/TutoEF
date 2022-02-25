@@ -51,6 +51,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Entity\Commande.cs" />
     <Compile Include="Entity\Personne.cs" />
     <Compile Include="Migrations\202202250932247_PremiereMigration.cs" />
     <Compile Include="Migrations\202202250932247_PremiereMigration.designer.cs">
