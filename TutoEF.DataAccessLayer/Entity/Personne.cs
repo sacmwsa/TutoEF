@@ -15,7 +15,7 @@ namespace TutoEF.DataAccessLayer.Entity
         public int PersonneId { get; set; }
 
         [MaxLength(55)]
-        public string Firstname { get; set; }
+        public string Firstnamee { get; set; }
         public string Lastname { get; set; }
         [EmailAddress, Required]
         public string Email { get; set; }
