@@ -20,6 +20,8 @@ namespace TutoEF.DataAccessLayer.Entity
         [EmailAddress, Required]
         public string Email { get; set; }
 
+        public int Age { get; set; }
+
 
     }
 }
