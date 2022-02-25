@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TutoEF", "TutoEF\TutoEF.csproj", "{0E950E61-CC9B-4E0B-87BE-2542F646662F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TutoEF.DataAccessLayer", "TutoEF.DataAccessLayer\TutoEF.DataAccessLayer.csproj", "{88CD2D8B-D340-46ED-9859-1C831155E7F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E950E61-CC9B-4E0B-87BE-2542F646662F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E950E61-CC9B-4E0B-87BE-2542F646662F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E950E61-CC9B-4E0B-87BE-2542F646662F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E950E61-CC9B-4E0B-87BE-2542F646662F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88CD2D8B-D340-46ED-9859-1C831155E7F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88CD2D8B-D340-46ED-9859-1C831155E7F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88CD2D8B-D340-46ED-9859-1C831155E7F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88CD2D8B-D340-46ED-9859-1C831155E7F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC03A560-A215-456D-B4BB-3BD703F85104}
+	EndGlobalSection
+EndGlobal
